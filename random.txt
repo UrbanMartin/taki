@@ -6,4 +6,4 @@ def on_forever():
     else:
         pass
 basic.forever(on_forever)
-geci szar ora
+nagyon tetszett ez az óra a Tanár úr egy isten
